@@ -1,6 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00B1F7&center=true&vCenter=true&width=500&lines=Ch%C3%A0o+m%E1%BB%ừng+%C4%91%E1%BA%BFn+Profile+Kobi466!"/>
-</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Backend-Java_Spring_Boot-blue"/>
